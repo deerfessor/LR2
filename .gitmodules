@@ -1,0 +1,3 @@
+[submodule "neuron"]
+	path = neuron
+	url = git@github.com:deerfessor/neuron.git
